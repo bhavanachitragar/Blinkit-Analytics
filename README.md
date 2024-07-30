@@ -32,7 +32,9 @@ This project involves creating interactive dashboards to analyze sales data over
 
 #### Sanpshots:
  
+![Screenshot 2024-07-30 125023](https://github.com/user-attachments/assets/de2eeea8-757f-4130-9126-94ac8cbb8d04)
 
+![Screenshot 2024-07-30 125119](https://github.com/user-attachments/assets/4c3225b9-4d78-49af-b1e3-4f5150f3a5cf)
 
 ----------------------------------------------------------------
 
